@@ -1,4 +1,3 @@
-# Graphite
 
 ### Project run
 ```vim
